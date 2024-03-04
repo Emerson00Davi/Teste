@@ -1,3 +1,3 @@
 # Teste
 
-[Teste](ArquivoTestes.html)
+[Teste](ArquivoTeste.html)
